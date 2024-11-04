@@ -1,4 +1,4 @@
-nter<p align="center">
+<p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 <h1 align="center">Hi 👋, I'm Shashindu Madushan</h1>
