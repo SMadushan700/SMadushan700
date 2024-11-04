@@ -28,7 +28,7 @@
 ---
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-- 🔭 I’m currently working on **FaceRec**
+- 🔭 I’m currently developing project **FaceRec**
 
 - 🌱 I’m currently learning oop with **Java**
 
