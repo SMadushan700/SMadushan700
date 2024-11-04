@@ -9,7 +9,7 @@
 <hr/>
 <h4 align="left">I am a BSc (Hons) in Information Technology Specialising in Computer Systems & Network Engineer. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems 🚀.I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -26,7 +26,7 @@
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ---
-
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 - 🔭 I’m currently working on **FaceRec**
 
