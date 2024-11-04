@@ -3,17 +3,23 @@
  <h2 align="center">Profile</h2>
 </p>
 
+<h1 align="center">Hi 👋, I'm Shashindu Madushan</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+System+and+Network+Engineer;Arduino+Project+Developer;%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things;Exploring%20the%20Boundless%20World%20of%20Technology&center=true&width=500&height=50"></a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Shashindu Madushan</h1>
 <hr/>
-<h4 align="center">I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
-<br>
+<h4 align="left">I am a BSc (Hons) in Information Technology Specialising in Computer Systems & Network Engineer. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SMadushan700&label=Profile%20views&color=0e75b6&style=flat" alt="SMadushan700" /> </p>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
+
+
 
 ---
 
@@ -31,9 +37,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shashindu-madushan-568645284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashindu-madushan-568645284/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61561569781688&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61561569781688&mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shashindu-madushan-568645284/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="shashindu-madushan" height="50" width="50" /></a>
+<a href="https://www.facebook.com/profile.php?id=61561569781688&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shashindu Madushan" height="50" width="50" /></a>
+<a href="https://www.instagram.com/sanj_u2131/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="sanj_u2131" height="50" width="50" /></a>
 </p>
+
 
 ---
 
