@@ -28,7 +28,7 @@
 ---
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-- 🔭 I’m currently developing project **FaceRec**
+- 🔭 I’m currently developing project **"FaceRec"**
 
 - 🌱 I’m currently learning oop with **Java**
 
@@ -84,6 +84,10 @@
 </table>
 
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
